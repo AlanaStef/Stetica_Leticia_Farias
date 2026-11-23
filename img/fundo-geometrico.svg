@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 700" preserveAspectRatio="xMidYMid slice">
+  <!-- Linhas douradas finas, no estilo dos posts do Instagram da clínica -->
+  <g fill="none" stroke="#8a733d" stroke-width="1.3" stroke-linejoin="round" stroke-linecap="round" vector-effect="non-scaling-stroke" opacity="0.75">
+    <path vector-effect="non-scaling-stroke" d="M-20 60 L330 -20"/>
+    <path vector-effect="non-scaling-stroke" d="M-20 60 L240 330 L-20 420"/>
+    <path vector-effect="non-scaling-stroke" d="M240 330 L520 720"/>
+    <path vector-effect="non-scaling-stroke" d="M0 560 L360 470 L170 720"/>
+    <path vector-effect="non-scaling-stroke" d="M1620 90 L1230 -20"/>
+    <path vector-effect="non-scaling-stroke" d="M1620 90 L1340 380 L1620 470"/>
+    <path vector-effect="non-scaling-stroke" d="M1340 380 L1090 720"/>
+    <path vector-effect="non-scaling-stroke" d="M1620 590 L1210 520 L1420 720"/>
+    <path vector-effect="non-scaling-stroke" d="M560 -20 L760 140 L980 -20"/>
+    <path vector-effect="non-scaling-stroke" d="M700 720 L860 560 L1010 720"/>
+  </g>
+</svg>
